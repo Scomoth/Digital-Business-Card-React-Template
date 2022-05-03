@@ -1,0 +1,117 @@
+
+* {
+  box-sizing: border-box;
+}
+.App {
+  position: absolute;
+  width: 550px;
+  height: 868px;
+  left: 65px;
+  top: 53px;
+  
+  background: #23252C;
+}
+.Box1 {
+  position: absolute;
+  width: 317px;
+  height: 317px;
+  left: 116px;
+  top: 44px;
+  background: url('./images/anoop1.jpg');
+  border-radius: 10px 10px 0px 0px;
+}
+.Box2{
+  position:absolute;
+  border-spacing: 2em;
+  width: 317px;
+  height: 399px;
+  left: 116px;
+  top: 361px;
+  text-align: center;
+
+  background: #1A1B21;
+}
+.Box3 {
+  position: absolute;
+  display: flex;
+  border-spacing: 30px;
+  width: 317px;
+  height: 64px;
+  left: 116px;
+  top: 760px;
+
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.t1 {
+  padding: 10px;
+  margin: auto;
+  margin-bottom: 20px;;
+  height: 25.80645179748535px;
+  width: 178.06451416015625px;
+  left: 186px;
+  top: 382px;
+  border-radius: nullpx;
+
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+
+  text-align: center;
+
+  color: #FFFFFF;
+}
+.t2 {
+  padding: 30px;
+  margin: auto;
+  margin-top: 10px;
+  width: 178.06px;
+  height: 14.19px;
+  left: 186px;
+  top: 414px;
+
+
+  font-family: 'Inter';
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+
+
+
+  color: #F3BF99;
+
+}
+
+.t3 {
+  padding: 50px;
+  margin:auto;
+  width: 228px;
+  height: 16px;
+  left: 161px;
+  top: 437px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+
+  /* identical to box height, or 15px */
+
+  text-align: center;
+
+  color: #F5F5F5;
+}
+
+button {
+  width: 80px;
+}
+
+
+
